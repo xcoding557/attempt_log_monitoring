@@ -23,3 +23,5 @@
 2)  Start Service Apache in XAMPP
 2)  Copy folder `view_data` to `htdocs` folder
 3)  Access the Web Application by access this URL `http://your_ip:your_port/view_data`
+![Test Image 5](https://github.com/xcoding557/attempt_log_monitoring/blob/main/Image_APP/Web%20Server.JPG)
+
